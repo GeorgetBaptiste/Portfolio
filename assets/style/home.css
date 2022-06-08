@@ -1,0 +1,30 @@
+.haut-de-page .cadre {
+    background-color: var(--secondary-color);
+    width: 12;
+    border: var(--border-size);
+    border-radius: 20px;
+    border-color: var(--primary-color);
+    padding: 1em 2%;
+    margin-right: 5%;
+}
+
+.haut-de-page {
+    justify-content: center;
+}
+
+.haut-de-page .cadre h1 {
+    margin-bottom: 0.5em;
+}
+
+.haut-de-page div {
+    height: 13em;
+    width: 12.75%;
+    margin-left: 5%;
+}
+
+.haut-de-page div img {
+    border-radius: 50%;
+    border: var(--border-size);
+    border-color: var(--primary-color);
+    width: 100%;
+}

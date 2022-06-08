@@ -1,0 +1,38 @@
+.haut-de-page {
+    justify-content: center; 
+}
+
+.haut-de-page .cadre {
+    background-color: var(--secondary-color);
+    border: var(--border-size);
+    border-color: var(--primary-color);
+    padding: 1.5em 2%;
+    border-radius: 20px;
+}
+
+.chiffrement-image .groupe-image {
+    display: flex;
+    justify-content: space-around;
+}
+
+.chiffrement-image .groupe-image div {
+    width: 35%;
+}
+
+.kamon .groupe-image {
+    display: flex;
+    justify-content: center;
+}
+
+.kamon .groupe-image .image {
+    width: 90%;
+}
+
+.cardinal-chain .groupe-image {
+    display: flex;
+    justify-content: center;
+}
+
+.cardinal-chain .groupe-image .image {
+    width: 50%;
+}
