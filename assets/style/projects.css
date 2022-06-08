@@ -36,3 +36,12 @@
 .cardinal-chain .groupe-image .image {
     width: 50%;
 }
+
+.portfolio .groupe-image {
+    display: flex;
+    justify-content: center;
+}
+
+.portfolio .groupe-image .image {
+    width: 90%;
+}
