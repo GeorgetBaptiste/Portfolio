@@ -45,3 +45,12 @@
 .portfolio .groupe-image .image {
     width: 90%;
 }
+
+.projet-wdev .groupe-image {
+    display: flex;
+    justify-content: center;
+}
+
+.projet-wdev .groupe-image .image {
+    width: 90%;
+}
